@@ -3,3 +3,10 @@
 I valori in input vengono presi da API esterne la quale forniscono la temperatura di una specifica città(Specificando latitudine e longitudine).
 Per permettere al contratto di interagire con l'API esterna viene fatto uso degli oracoli tramite le **chainlink functions**.
 
+Strumenti utilizzati:
+**-Sepolia** ->Blockchain di prova;
+**-Solidity**->Linguaggio per la scrittura degli smart contract;
+**-Chainlink funcitons**->Utilizzate per implementare gli oracoli per effettuare interazioni con API esterne alla blockchain;
+**-Remix**->Utilizzato per lo svilippo e il deploy degli smart contract;
+**-React**->Integrazione frontend;
+**-Pinata**->Per utilizzare gli IPFS.
